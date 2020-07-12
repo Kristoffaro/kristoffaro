@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Kristoff A. Robinson, but you can call me Kris. I currently work at Cigna as a Software Engineer at Cigna in the Technology Early Career Developement Program (TECDP). 
+I have a Bachelor's in Computer Science and will soon start a dual Master's in Data Science & Artificial Intelligence and Machine Learning.  
+
+😄 Pronouns: He/Him
+
+🌱 Technologies I’m currently learning:
+- React
+- Nodejs
+- Docker
+- etc...
+
+📫 Reach me at  
+Twitter - [@kristoffaro](https://twitter.com/kristoffaro)  
+LinkedIn - [@kristoffaro](https://linkedin.com/in/kristoffaro)  
+Website - [kristoffaro.com](https://kristoffaro.com)  
